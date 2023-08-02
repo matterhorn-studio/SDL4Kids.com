@@ -3,9 +3,11 @@
 
 ## Getting started
 
-Choose a notebook for MacOS or Windows [here](notebooks)
+Choose a notebook for MacOS [here](notebooks).
 
+Watch the video tutorials [here](https://sites.google.com/matterhorn.studio/sdl4kids/get-started?authuser=0).
 
+We will add Windows support at a later stage.
 
 ### FAQ
 
